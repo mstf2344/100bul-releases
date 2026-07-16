@@ -1,0 +1,6 @@
+# Ignore all files by default
+*
+
+# Do not ignore README.md and .gitignore
+!README.md
+!.gitignore
